@@ -1,0 +1,32 @@
+[
+    {
+      "precio": 15000,
+      "id": 1,
+      "title": "Monitor",
+        "thumbnailUrl": "https://static.lenovo.com/mea/campaign/newmonitors/images/P27q-10/P27q-1.png"
+    },
+    {
+      "precio": 4000,
+      "id": 2,
+      "title": "Teclado",
+      "thumbnailUrl": "https://novati.com.ar/tiendainformatica/wp-content/uploads/2021/10/K512_PNGWEB-1-600x600.png"
+    },
+    {
+      "precio": 2500,
+      "id": 3,
+      "title": "Mouse",
+      "thumbnailUrl": "https://www.unmundo.com.ar/3299-large_default/mouse-gamer-usb-sensor-8108-tc.jpg"
+    },
+    {
+      "precio": 5000,
+      "id": 4,
+      "title": "Auricular",
+      "thumbnailUrl": "https://d2r9epyceweg5n.cloudfront.net/stores/845/404/products/a10-gallery-xbox-0111-ce45b9d29ef41c19ff16049052421677-1024-1024.png"
+    },
+    {
+      "precio": 1000,
+      "id": 5,
+      "title": "MousePad",
+      "thumbnailUrl": "https://novati.com.ar/tiendainformatica/wp-content/uploads/2020/07/943-000098_2.png"
+    }
+  ]

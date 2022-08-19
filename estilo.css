@@ -1,0 +1,13 @@
+.card-img-top {
+    width: 250px;
+    height: 250px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btnComprar {
+    text-align: center;
+    justify-content: center;
+}
